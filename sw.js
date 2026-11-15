@@ -1,4 +1,4 @@
-const CACHE_NAME = 'personal-note-v1.0';
+const CACHE_NAME = 'personal-note-v1.9';
 const ASSETS = [
   './',
   './index.html',
