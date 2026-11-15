@@ -1,8 +1,13 @@
-const CACHE_NAME = 'personal-note-v1.9';
+const CACHE_NAME = 'personal-note-v1.10';
 const ASSETS = [
   './',
   './index.html',
-  './manifest.json'
+  './manifest.json',
+  './icone/icona.svg',
+  './icone/icona-192.png',
+  './icone/icona-512.png',
+  './icone/icona-maskable-512.png',
+  './icone/apple-touch-icon.png'
 ];
 
 // Installazione: salvataggio file in cache locale

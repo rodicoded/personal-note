@@ -1,16 +1,28 @@
 {
-  "name": "personal_note",
-  "short_name": "p_note",
+  "name": "Personal Note",
+  "short_name": "Note",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f6f8",
   "theme_color": "#007bff",
   "icons": [
     {
-	  "src": "./icone/icona1.png",
+      "src": "./icone/icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icone/icona-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "./icone/icona-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
